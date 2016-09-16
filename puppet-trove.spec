@@ -21,7 +21,7 @@ Requires:       puppet >= 2.7.0
 Puppet module for OpenStack Trove
 
 %prep
-%setup -q -n %{name}-%{upstream_version}
+%setup -q -n openstack-trove-%{upstream_version}
 
 find . -type f -name ".*" -exec rm {} +
 find . -size 0 -exec rm {} +
