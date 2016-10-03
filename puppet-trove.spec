@@ -55,3 +55,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/trove/
 - Update to 9.2.0
 
 
+# REMOVEME: error caused by commit http://git.openstack.org/cgit/openstack/puppet-trove/commit/?id=e93d7065fd0d773d894349791198f8b347ea4244
