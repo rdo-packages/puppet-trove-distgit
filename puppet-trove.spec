@@ -49,4 +49,3 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/trove/
 - Update to 15.4.0
 
 
-
