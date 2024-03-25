@@ -64,3 +64,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/trove/
 %changelog
 
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/puppet-trove/commit/62c7ac0159b5c0f27a44cca021dd21bbce8ef4ea
